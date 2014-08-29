@@ -1,0 +1,24 @@
+﻿Build started 2014-08-29 7:13:47 PM.
+     1>Project "C:\Users\David\documents\visual studio 2013\Projects\Grobner\GrobnerArray\GrobnerArray.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt classes.cpp input.cpp
+         input.cpp
+         classes.cpp
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(221): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(329): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(340): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(374): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(404): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(419): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(668): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\david\documents\visual studio 2013\projects\grobner\grobnerarray\classes.cpp(716): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\David\documents\visual studio 2013\Projects\Grobner\Debug\GrobnerArray.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\David\documents\visual studio 2013\Projects\Grobner\Debug\GrobnerArray.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\David\documents\visual studio 2013\Projects\Grobner\Debug\GrobnerArray.lib" /MACHINE:X86 Debug\input.obj
+         Debug\classes.obj
+         GrobnerArray.vcxproj -> C:\Users\David\documents\visual studio 2013\Projects\Grobner\Debug\GrobnerArray.exe
+     1>Done Building Project "C:\Users\David\documents\visual studio 2013\Projects\Grobner\GrobnerArray\GrobnerArray.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.88

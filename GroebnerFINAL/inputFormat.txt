@@ -1,0 +1,23 @@
+There are text files for ideals and test files for polynomials.
+For a polynomial, first input line will be the size (number of variables) of the field.
+Then the monomials will be listed.
+There will be a flag in the input function to set or not set the global field size
+0 - Don't set
+1 - Set
+Example:
+3
+1
+5/1 1 1 1
+2/7 0 2 2
+The function will keep on reading until the end of the files
+
+For ideals there will be a line break between each new polynomial
+Example:
+2
+1
+2/3 1 2
+3/2 2 1
+
+1/1 3 0
+2/1 0 3
+4/3 1 1

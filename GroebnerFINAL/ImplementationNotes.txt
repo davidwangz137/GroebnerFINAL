@@ -1,0 +1,3 @@
+There will be no "ghost" monomials. If a monomial is added with no vector<int>, then it will still have a rational coefficient which will be printed.
+
+In the division algorithm, if there is no remainder, then the remainder.poly.size() is equal to 0. Else, there is a non-zero remainder
